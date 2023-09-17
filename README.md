@@ -32,4 +32,4 @@ julia monte_carlo_julia.jl
 
 ## Execution Time Visualization
 
-![Execution Time Comparison](./execution_time_comparison.png)
+![Execution Time Comparison](./Plot.png)
