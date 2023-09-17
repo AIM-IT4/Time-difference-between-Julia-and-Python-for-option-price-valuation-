@@ -1,5 +1,5 @@
 
-# Monte Carlo Simulation for European Option Pricing
+# Monte carlo Simulation for European Option Pricing
 
 This repository contains code to run a Monte Carlo simulation to price a European call option in both Python and Julia. The aim is to compare the performance of the two languages in terms of execution time.
 
